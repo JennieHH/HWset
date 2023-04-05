@@ -1,2 +1,4 @@
 In this homework, I tried two ways to solve. 
-The untitled 
+The Untitled5.ipynb is the first way, here I listed out all the answers without grouped in same question. In contrast, the Spoken-squad.ipynb
+I grouped the answers with the same question and picked the best score of the answer in evaluate part. This leads to a huge difference in exact match score 
+and F1 score. In the former way, it obtained a lower exact match and F1 scores (~50%) while it obtained (74%~) in the latter one.
