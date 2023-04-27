@@ -1,0 +1,3 @@
+In this project, I inplemented three GAN type models, DCGAN, WGAN and ACGAN.
+At the end of training, the program generated 10 best images and compute the FID
+score. 
